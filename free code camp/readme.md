@@ -1,14 +1,5 @@
 
-# R-programming-in-practice
-## This repository contains my learning progress in R programming using R studio.
-R is a powerfull growing statistical programming language used by researchers and industries to get best insights.
-### Why R?
-<li>R is language of Datascience</li>
-<li>Free & Open source</li>
-<li>Great support community & contributions</li>
-<li>9000+ packages</li>
 
-References:-https://www.youtube.com/watch?v=_V8eKsto3Ug
 <pre>
 #01
 Iris is one of the famus in-built data set provided by R to practicing R
@@ -24,4 +15,13 @@ detach("package:datasets", unload = TRUE)  # For base
 
 # To clear plots
 dev.off()  # But only if there IS a plot
+
+</pre>
+<pre>
+#### About data set
+This data set descibes about flowers and their some attributes
+There are 1 qualitative and 4 quantitative variables (Total 5)
+Species is the qualitative variable with 3 levels
+sepal length,petal length, sepal width, petal width are 4 quantitative variable
+<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/1.png" height="620" width="1100"/>
 </pre>
