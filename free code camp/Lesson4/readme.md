@@ -17,6 +17,9 @@ cylinders <- table(mtcars$cyl)  # Create table
 barplot(cylinders)              # Bar chart
 plot(cylinders)                 # Default X-Y plot (lines)
 
-<img src="" />
+<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson4/barchart.png" />
 
+</pre>
+<pre>
+<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson4/123.png" />
 </pre>
