@@ -20,6 +20,7 @@ plot(cylinders)                 # Default X-Y plot (lines)
 <img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson4/barchart.png" />
 
 </pre>
+source file:https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson4/4.BarCharts.R
 <pre>
 <img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson4/123.png" />
 </pre>
