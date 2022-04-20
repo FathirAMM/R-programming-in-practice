@@ -33,3 +33,5 @@ To load the package by using either of the following:
 >>p_unload(all)  # Easier: clears all add-ons
 >>detach("package:datasets", unload = TRUE)  # For base
 </pre>
+sounce:https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson02/2_Packages.R
+<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson02/Screenshot%202022-04-20%20161634.png" />
