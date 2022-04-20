@@ -1,5 +1,5 @@
 
-# Lesson 01
+# Lesson 01 Kickstart
 <pre>
 
 Iris is one of the famus in-built data set provided by R to practicing R
