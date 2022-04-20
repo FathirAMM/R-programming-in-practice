@@ -1,4 +1,4 @@
-## Lesson 02
+## Lesson 02 Packages 
 <pre>
 packages
 Packages are bundle of code that add new functions to R
