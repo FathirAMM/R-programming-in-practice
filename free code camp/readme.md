@@ -25,5 +25,5 @@ Species is the qualitative variable with 3 levels
 sepal length,petal length, sepal width, petal width are 4 quantitative variable
 <img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/1.png" height="620" width="1100"/>
 <br />
-<img src="<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/1.png" height="620" width="1100"/>" height="620" width="1100"/>
+<img src="" height="620" width="1100"/>
 </pre>
