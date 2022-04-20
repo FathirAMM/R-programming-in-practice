@@ -36,4 +36,16 @@
     
     <img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson3/allplot.png"  alt="allin one"/>
     
+    
+>># Plot with options
+plot(iris$Petal.Length, iris$Petal.Width,
+  col = "#cc0000",  # Hex code for datalab.cc red
+  pch = 19,         # Use solid circles for points/point character
+  main = "Iris: Petal Length vs. Petal Width",
+  xlab = "Petal Length",
+  ylab = "Petal Width")
+  
+  
+  <img src="" />
+    
 </pre>
