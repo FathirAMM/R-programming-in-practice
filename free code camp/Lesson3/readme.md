@@ -46,6 +46,8 @@ plot(iris$Petal.Length, iris$Petal.Width,
   ylab = "Petal Width")
   
   
-  <img src="" />
+  <img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson3/colorplot.png" />
+  
+  <img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson3/123456.png" />
     
 </pre>
