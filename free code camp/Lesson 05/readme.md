@@ -51,7 +51,7 @@ hist(iris$Petal.Width [iris$Species == "virginica"],
 # Restore graphic parameter
 par(mfrow=c(1, 1))
 
-<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson%2005/histogram.png" />
+<img src="https://github.com/FathirAMM/R-programming-in-practice/blob/main/free%20code%20camp/Lesson%2005/multiplehist.png" />
 
 
 </pre>
